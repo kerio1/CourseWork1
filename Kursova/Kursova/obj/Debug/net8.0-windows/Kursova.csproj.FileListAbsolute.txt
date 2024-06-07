@@ -1,0 +1,69 @@
+C:\Users\Kirill\Desktop\NURE\Kursova\Kursova\bin\Debug\net8.0-windows\Kursova.exe
+C:\Users\Kirill\Desktop\NURE\Kursova\Kursova\bin\Debug\net8.0-windows\Kursova.deps.json
+C:\Users\Kirill\Desktop\NURE\Kursova\Kursova\bin\Debug\net8.0-windows\Kursova.runtimeconfig.json
+C:\Users\Kirill\Desktop\NURE\Kursova\Kursova\bin\Debug\net8.0-windows\Kursova.dll
+C:\Users\Kirill\Desktop\NURE\Kursova\Kursova\bin\Debug\net8.0-windows\Kursova.pdb
+C:\Users\Kirill\Desktop\NURE\Kursova\Kursova\obj\Debug\net8.0-windows\Kursova.csproj.GenerateResource.cache
+C:\Users\Kirill\Desktop\NURE\Kursova\Kursova\obj\Debug\net8.0-windows\Kursova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kirill\Desktop\NURE\Kursova\Kursova\obj\Debug\net8.0-windows\Kursova.AssemblyInfoInputs.cache
+C:\Users\Kirill\Desktop\NURE\Kursova\Kursova\obj\Debug\net8.0-windows\Kursova.AssemblyInfo.cs
+C:\Users\Kirill\Desktop\NURE\Kursova\Kursova\obj\Debug\net8.0-windows\Kursova.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\Desktop\NURE\Kursova\Kursova\obj\Debug\net8.0-windows\Kursova.dll
+C:\Users\Kirill\Desktop\NURE\Kursova\Kursova\obj\Debug\net8.0-windows\refint\Kursova.dll
+C:\Users\Kirill\Desktop\NURE\Kursova\Kursova\obj\Debug\net8.0-windows\Kursova.pdb
+C:\Users\Kirill\Desktop\NURE\Kursova\Kursova\obj\Debug\net8.0-windows\Kursova.genruntimeconfig.cache
+C:\Users\Kirill\Desktop\NURE\Kursova\Kursova\obj\Debug\net8.0-windows\ref\Kursova.dll
+C:\Users\Kirill\Desktop\NURE\Kursova\Kursova\obj\Debug\net8.0-windows\Kursova.AddCrime.resources
+C:\Users\Kirill\Desktop\NURE\Kursova\Kursova\obj\Debug\net8.0-windows\Kursova.Properties.Resources.resources
+C:\Users\Kirill\Desktop\NURE\Kursova\Kursova\obj\Debug\net8.0-windows\Kursova.EditCard.resources
+C:\Users\Kirill\Desktop\NURE\Kursova\Kursova\obj\Debug\net8.0-windows\Kursova.CardIndex.resources
+C:\Users\Kirill\Desktop\NURE\Kursova\Kursova\obj\Debug\net8.0-windows\Kursova.CriminalGroups.resources
+C:\Users\Kirill\Desktop\NURE\Kursova\Kursova\obj\Debug\net8.0-windows\Kursova.ConfirmForm.resources
+C:\Users\Kirill\Desktop\NURE\Kursova\Kursova\obj\Debug\net8.0-windows\Kursova.AddCriminalGroup.resources
+C:\Users\Kirill\Desktop\NURE\Kursova\Kursova\obj\Debug\net8.0-windows\Kursova.EditCriminalGroup.resources
+C:\Users\Kirill\Desktop\NURE\SaveKursova\06.06.2024\Kursova\Kursova\bin\Debug\net8.0-windows\Kursova.exe
+C:\Users\Kirill\Desktop\NURE\SaveKursova\06.06.2024\Kursova\Kursova\bin\Debug\net8.0-windows\Kursova.deps.json
+C:\Users\Kirill\Desktop\NURE\SaveKursova\06.06.2024\Kursova\Kursova\bin\Debug\net8.0-windows\Kursova.runtimeconfig.json
+C:\Users\Kirill\Desktop\NURE\SaveKursova\06.06.2024\Kursova\Kursova\bin\Debug\net8.0-windows\Kursova.dll
+C:\Users\Kirill\Desktop\NURE\SaveKursova\06.06.2024\Kursova\Kursova\bin\Debug\net8.0-windows\Kursova.pdb
+C:\Users\Kirill\Desktop\NURE\SaveKursova\06.06.2024\Kursova\Kursova\obj\Debug\net8.0-windows\Kursova.Properties.Resources.resources
+C:\Users\Kirill\Desktop\NURE\SaveKursova\06.06.2024\Kursova\Kursova\obj\Debug\net8.0-windows\Kursova.AddCrime.resources
+C:\Users\Kirill\Desktop\NURE\SaveKursova\06.06.2024\Kursova\Kursova\obj\Debug\net8.0-windows\Kursova.AddCriminalGroup.resources
+C:\Users\Kirill\Desktop\NURE\SaveKursova\06.06.2024\Kursova\Kursova\obj\Debug\net8.0-windows\Kursova.CardIndex.resources
+C:\Users\Kirill\Desktop\NURE\SaveKursova\06.06.2024\Kursova\Kursova\obj\Debug\net8.0-windows\Kursova.ConfirmForm.resources
+C:\Users\Kirill\Desktop\NURE\SaveKursova\06.06.2024\Kursova\Kursova\obj\Debug\net8.0-windows\Kursova.CriminalGroups.resources
+C:\Users\Kirill\Desktop\NURE\SaveKursova\06.06.2024\Kursova\Kursova\obj\Debug\net8.0-windows\Kursova.EditCard.resources
+C:\Users\Kirill\Desktop\NURE\SaveKursova\06.06.2024\Kursova\Kursova\obj\Debug\net8.0-windows\Kursova.EditCriminalGroup.resources
+C:\Users\Kirill\Desktop\NURE\SaveKursova\06.06.2024\Kursova\Kursova\obj\Debug\net8.0-windows\Kursova.csproj.GenerateResource.cache
+C:\Users\Kirill\Desktop\NURE\SaveKursova\06.06.2024\Kursova\Kursova\obj\Debug\net8.0-windows\Kursova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kirill\Desktop\NURE\SaveKursova\06.06.2024\Kursova\Kursova\obj\Debug\net8.0-windows\Kursova.AssemblyInfoInputs.cache
+C:\Users\Kirill\Desktop\NURE\SaveKursova\06.06.2024\Kursova\Kursova\obj\Debug\net8.0-windows\Kursova.AssemblyInfo.cs
+C:\Users\Kirill\Desktop\NURE\SaveKursova\06.06.2024\Kursova\Kursova\obj\Debug\net8.0-windows\Kursova.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\Desktop\NURE\SaveKursova\06.06.2024\Kursova\Kursova\obj\Debug\net8.0-windows\Kursova.dll
+C:\Users\Kirill\Desktop\NURE\SaveKursova\06.06.2024\Kursova\Kursova\obj\Debug\net8.0-windows\refint\Kursova.dll
+C:\Users\Kirill\Desktop\NURE\SaveKursova\06.06.2024\Kursova\Kursova\obj\Debug\net8.0-windows\Kursova.pdb
+C:\Users\Kirill\Desktop\NURE\SaveKursova\06.06.2024\Kursova\Kursova\obj\Debug\net8.0-windows\Kursova.genruntimeconfig.cache
+C:\Users\Kirill\Desktop\NURE\SaveKursova\06.06.2024\Kursova\Kursova\obj\Debug\net8.0-windows\ref\Kursova.dll
+C:\Users\Kirill\Desktop\NURE\SaveKursova\06.06.2024 — копия (2)\Kursova\Kursova\bin\Debug\net8.0-windows\Kursova.exe
+C:\Users\Kirill\Desktop\NURE\SaveKursova\06.06.2024 — копия (2)\Kursova\Kursova\bin\Debug\net8.0-windows\Kursova.deps.json
+C:\Users\Kirill\Desktop\NURE\SaveKursova\06.06.2024 — копия (2)\Kursova\Kursova\bin\Debug\net8.0-windows\Kursova.runtimeconfig.json
+C:\Users\Kirill\Desktop\NURE\SaveKursova\06.06.2024 — копия (2)\Kursova\Kursova\bin\Debug\net8.0-windows\Kursova.dll
+C:\Users\Kirill\Desktop\NURE\SaveKursova\06.06.2024 — копия (2)\Kursova\Kursova\bin\Debug\net8.0-windows\Kursova.pdb
+C:\Users\Kirill\Desktop\NURE\SaveKursova\06.06.2024 — копия (2)\Kursova\Kursova\obj\Debug\net8.0-windows\Kursova.Properties.Resources.resources
+C:\Users\Kirill\Desktop\NURE\SaveKursova\06.06.2024 — копия (2)\Kursova\Kursova\obj\Debug\net8.0-windows\Kursova.AddCrime.resources
+C:\Users\Kirill\Desktop\NURE\SaveKursova\06.06.2024 — копия (2)\Kursova\Kursova\obj\Debug\net8.0-windows\Kursova.AddCriminalGroup.resources
+C:\Users\Kirill\Desktop\NURE\SaveKursova\06.06.2024 — копия (2)\Kursova\Kursova\obj\Debug\net8.0-windows\Kursova.CardIndex.resources
+C:\Users\Kirill\Desktop\NURE\SaveKursova\06.06.2024 — копия (2)\Kursova\Kursova\obj\Debug\net8.0-windows\Kursova.ConfirmForm.resources
+C:\Users\Kirill\Desktop\NURE\SaveKursova\06.06.2024 — копия (2)\Kursova\Kursova\obj\Debug\net8.0-windows\Kursova.CriminalGroups.resources
+C:\Users\Kirill\Desktop\NURE\SaveKursova\06.06.2024 — копия (2)\Kursova\Kursova\obj\Debug\net8.0-windows\Kursova.EditCard.resources
+C:\Users\Kirill\Desktop\NURE\SaveKursova\06.06.2024 — копия (2)\Kursova\Kursova\obj\Debug\net8.0-windows\Kursova.EditCriminalGroup.resources
+C:\Users\Kirill\Desktop\NURE\SaveKursova\06.06.2024 — копия (2)\Kursova\Kursova\obj\Debug\net8.0-windows\Kursova.csproj.GenerateResource.cache
+C:\Users\Kirill\Desktop\NURE\SaveKursova\06.06.2024 — копия (2)\Kursova\Kursova\obj\Debug\net8.0-windows\Kursova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kirill\Desktop\NURE\SaveKursova\06.06.2024 — копия (2)\Kursova\Kursova\obj\Debug\net8.0-windows\Kursova.AssemblyInfoInputs.cache
+C:\Users\Kirill\Desktop\NURE\SaveKursova\06.06.2024 — копия (2)\Kursova\Kursova\obj\Debug\net8.0-windows\Kursova.AssemblyInfo.cs
+C:\Users\Kirill\Desktop\NURE\SaveKursova\06.06.2024 — копия (2)\Kursova\Kursova\obj\Debug\net8.0-windows\Kursova.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\Desktop\NURE\SaveKursova\06.06.2024 — копия (2)\Kursova\Kursova\obj\Debug\net8.0-windows\Kursova.dll
+C:\Users\Kirill\Desktop\NURE\SaveKursova\06.06.2024 — копия (2)\Kursova\Kursova\obj\Debug\net8.0-windows\refint\Kursova.dll
+C:\Users\Kirill\Desktop\NURE\SaveKursova\06.06.2024 — копия (2)\Kursova\Kursova\obj\Debug\net8.0-windows\Kursova.pdb
+C:\Users\Kirill\Desktop\NURE\SaveKursova\06.06.2024 — копия (2)\Kursova\Kursova\obj\Debug\net8.0-windows\Kursova.genruntimeconfig.cache
+C:\Users\Kirill\Desktop\NURE\SaveKursova\06.06.2024 — копия (2)\Kursova\Kursova\obj\Debug\net8.0-windows\ref\Kursova.dll
